@@ -1,5 +1,5 @@
 # dh-bibliography
-This repository contains the bibliography needed my DH project 
+This repository contains the bibliography needed for the Introduction to DH project 
 ## Topic
 Visual representations of Russian literary classics 
 ## Field 
